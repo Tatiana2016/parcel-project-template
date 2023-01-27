@@ -1,2 +1,47 @@
 @import './common';
 @import './example';
+
+// Page Room
+
+// Header section
+@import './components/logo.scss';
+@import './components/socials';
+@import './components/header-section';
+@import './components/modals';
+
+// Hero Room section
+@import './components/hero-room-section.scss';
+@import './components/buttons';
+
+// Amenities section
+@import './components/amenities-section';
+
+// Footer section
+@import './components/footer-section';
+
+
+// Page Hotel
+
+// Hero 3-pages section
+@import './components/hero-3-pages-section';
+
+// Rooms section
+@import './components/rooms-section';
+
+
+// Page Restaurant 
+
+// Features section
+@import './components/features-section';
+
+// Restaurant-menu section
+@import './components/restaurant-menu-section';
+
+
+// Homepage
+
+// Services section
+@import './components/services-section';
+
+// Contacts section
+@import './components/contacts-section';
